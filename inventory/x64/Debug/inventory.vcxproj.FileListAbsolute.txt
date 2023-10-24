@@ -1,0 +1,1 @@
+C:\Users\antoi\C++\sae\exercices\inventory\x64\Debug\inventory.exe
